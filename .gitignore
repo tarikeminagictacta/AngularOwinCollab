@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CoBen.UI.Angular/bin
+/CoBen.UI.Angular/obj/Debug
+/CoBen.UI.Angular/wwwroot/*
+/packages
